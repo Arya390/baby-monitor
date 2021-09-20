@@ -1,0 +1,32 @@
+body
+{
+    background: rgb(28,26,26);
+background: linear-gradient(90deg, rgba(28,26,26,1) 0%, rgba(11,153,227,0.9925012241224614) 50%, rgba(211,219,220,1) 100%);   
+}
+
+.anchor
+{
+    background: rgb(55,123,124);
+ background: linear-gradient(295deg, rgba(55,123,124,1) 26%, rgba(59,77,82,1) 80%);
+    box-shadow: 5px 5px 5px rgb(23, 25, 59);
+    padding-left: 10%;
+    padding-right: 15%;
+    font-family: 'Ultra', serif;
+    width: 30%;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: solid turquoise 1px;
+   
+}
+.heading
+{
+    width:100%;
+    height:18%;
+    padding-top:20px;
+    background-color:turquoise;
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+    border: solid;
+}
+
